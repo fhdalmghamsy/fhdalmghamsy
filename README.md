@@ -38,6 +38,8 @@ A web app that estimates price per m² and total price for any property from its
 - Random Forest model: **R² ≈ 0.70, MAE ≈ 578 SAR/m²**, chosen over XGBoost variants
 - Interactive Streamlit app with city-filtered neighborhood selection
 
+**▶️ [Try it live](https://saudi-real-estate-predictor.streamlit.app/)** · [Code](https://github.com/fhdalmghamsy/saudi-real-estate-price-predictor)
+
 `Python` `scikit-learn` `Random Forest` `Streamlit`
 
 ---
